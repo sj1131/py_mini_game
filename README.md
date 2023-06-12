@@ -1,1 +1,3 @@
 # PyMiniGame
+
+ASCII Art by HYUNWOONG PARK
