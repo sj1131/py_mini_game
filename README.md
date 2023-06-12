@@ -1,1 +1,1 @@
-# py_mini_game
+# PyMiniGame
