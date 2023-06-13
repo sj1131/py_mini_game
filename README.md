@@ -1,7 +1,7 @@
 # PyMiniGame
 Download [PyMiniGame.exe](https://github.com/sj1131/py_mini_game/raw/main/PyMiniGame.exe)
 
-1. Recommanded Fonts:
+# Recommanded Fonts
    - [MesloLGS NF Regular.ttf](
        https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf)
    - [MesloLGS NF Bold.ttf](
