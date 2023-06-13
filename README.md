@@ -11,4 +11,4 @@ Download [PyMiniGame.exe](https://github.com/sj1131/py_mini_game/raw/main/PyMini
    - [MesloLGS NF Bold Italic.ttf](
        https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold%20Italic.ttf)
 #
-ASCII Art by HYUNWOONG PARK
+ASCII Arts used in this project is by HYUNWOONG PARK
